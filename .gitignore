@@ -1,0 +1,5 @@
+private/
+genfiles.properties
+.DS_Store
+dist/
+build/
